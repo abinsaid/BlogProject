@@ -20,7 +20,7 @@ this file contains the ignored files
 
 - git and github are used as version controls, and has been installed and used with the following steps:
 
-`
+```
 echo "# BlogProject" >> README.md
 git init
 git add README.md
@@ -28,7 +28,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/abinsaid/BlogProject.git
 git push -u origin main
-`
+```
 - pushing the website files into the github:
 ```
 git add images/ README.md style.css .gitignore index.html
