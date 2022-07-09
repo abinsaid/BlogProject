@@ -36,7 +36,7 @@ git push
 git commit
 ```
 
-## navigation bar
+## Navigation bar
 ![SCREENSHOT](images/navigation.png)
 
 - the navigation bar has been made with HTML and CSS as the following code shows:
@@ -51,7 +51,7 @@ git commit
     </div>
   </nav>
   ```
-  ## article
+  ## Article
   ![SCREENSHOT](images/article.png)
   - the article is displayed in the half of the screen with using HTML, CSS, and Bootstrap:
 
